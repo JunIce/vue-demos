@@ -1,4 +1,6 @@
-# vuex_test
+# vue_demos
+
+> 平时的vue_demos
 
 ## Project setup
 ```
